@@ -7,4 +7,4 @@ var banners =
 		banners[bannerAtual];
 }
 
-setInterval(trocaBanner, 2000);
+setInterval(trocaBanner, 1000);
